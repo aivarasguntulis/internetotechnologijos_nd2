@@ -1,5 +1,5 @@
 
-# Apie projektą
+# Apie projektą ND2
 
 Projektas skirtas atspindėti interneto tinklapių kūrimo įmonės veiklą.
 
