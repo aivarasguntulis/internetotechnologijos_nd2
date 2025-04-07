@@ -1,7 +1,7 @@
 
 # ND2 – Dinaminis tinklapis
 
-Šis projektas sukurtas kaip VGTU Informatikos fakulteto namų darbas.
+Šis projektas sukurtas kaip VGTU Informatikos fakulteto namų darbas NR2.
 
 ## Turinys
 
@@ -19,3 +19,17 @@
 - Bootstrap 5
 - Flexbox
 - JavaScript
+
+## Namu darbas 2 uzduotis:
+
+## ANTRASIS NAMŲ DARBAS (ND2) TEMA: Dinaminis tinklapis (JavaScript, Bootstrap, Flex, Grid).
+- Prie jau sukurtų trijų puslapių (pirmojo namų darbo) prijunkite dar du puslapius.
+- Tinklapių struktūros nurodymai: pagrindinis failas index.html, atskiri elementai turėtų būti atskiruose tam skirtuose kataloguose.
+Nurodymai:
+- Puslapiams naudokite kitą CSS stilių, t. y. turite turėti dar vieną papildomą CSS failą.
+- Puslapiams pritaikykite responsive dizainą.
+- Elementams naudokite flex arba grid išdėstymą.
+- Papildykite mygtukais su įvykiais.
+- Pasirinktiems elementams prijunkite Bootstrap karkasą.
+- Pridėkite @media.
+- Pridėkite papildomų elementų.
