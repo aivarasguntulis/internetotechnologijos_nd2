@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <title>Kontaktai</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/style2.css">
+    <script>
+        function siusti() {
+            alert("Žinutė išsiųsta!");
+            return false;
+        }
+    </script>
+</head>
+<body>
+    <nav>
+        <a href="../index.html">HOME</a> |
+        <a href="about.html">APIE</a> |
+        <a href="service.html">PASLAUGOS</a> |
+        <a href="design.html">DIZAINAI</a> |
+        <a href="contact.html">KONTAKTAI</a>
+    </nav>
+    <h1>Susisiekite su mumis</h1>
+    <form onsubmit="return siusti()">
+        <label>Vardas:</label><br>
+        <input type="text" required><br><br>
+        <label>El. paštas:</label><br>
+        <input type="email" required><br><br>
+        <label>Žinutė:</label><br>
+        <textarea required></textarea><br><br>
+        <button type="submit">Siųsti</button>
+    </form>
+</body>
+</html>
