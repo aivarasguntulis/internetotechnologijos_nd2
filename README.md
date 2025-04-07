@@ -11,6 +11,7 @@
 - Stiliai: `style.css`, `style2.css`
 - JavaScript: `script.js`
 - Foninis paveikslėlis: `img/1.jpg`
+- Foninis paveikslelis: `img\3.jpg` - naudojamas kaip `style2.css`
 
 ## Naudotos technologijos
 
