@@ -33,3 +33,16 @@ Nurodymai:
 - Pasirinktiems elementams prijunkite Bootstrap karkasą.
 - Pridėkite @media.
 - Pridėkite papildomų elementų.
+
+Git komandos:
+➤ Prideda visus pakeistus / naujus failus
+git add .
+➤ Sukuria momentinį kodo „išsaugojimą“ su komentaru
+git commit -m "Trumpas pakeitimų aprašymas"
+➤ Išsiunčia commit'us į tavo GitHub repozitoriją
+git push
+
+➤ Parodo, kurie failai pakeisti, bet dar neįtraukti
+git status
+Parodo konkretų skirtumą tarp dabartinių ir paskutinio commit'o failų
+git diff
